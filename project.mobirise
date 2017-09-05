@@ -138,8 +138,8 @@
               "newWindow": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"bit.do/main-link3\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">IQ OPTION Forex/Stock's!</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/life-of-a-trader\" target=\"_blank\">A TRADER'S LIFESTYLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/email-me1\" target=\"_blank\">EMAIL ME FOR TEACHING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"bit.do/main-link3\" target=\"_blank\">SIGN UP NOW!</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://bit.do/main-link3\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">IQ OPTION Forex/Stock's!</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/life-of-a-trader\" target=\"_blank\">A TRADER'S LIFESTYLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://bit.do/email-me1\" target=\"_blank\">EMAIL ME FOR TEACHING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://bit.do/main-link3\" target=\"_blank\">SIGN UP NOW!</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -212,7 +212,7 @@
           },
           "title": "NO MORE AFFILIATE MARKETING THIS IS HOW I AM MAKING $1000 - $5000 DOLLARS EASY ANY TIME OF THE DAY I WANT!",
           "text": "I have finally found the new way of making money online, honestly during my time as a marketer I made nothing marketing online but with new innovations releasing every day, I have found the only source of income you'll ever need so you can stop sharing links or asking people to join companies you don't even own instead learn how to trade bigger companies and the dollars that flows through them daily. It is still possible to earn a full time income online it just takes dedication, mindset and will power. Live your dream.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"bit.do/main-link3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE FOR MORE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://bit.do/email-me1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PERSONAL TEACHING</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://bit.do/main-link3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE FOR MORE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://bit.do/email-me1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PERSONAL TEACHING</a> "
         }
       ]
     }
